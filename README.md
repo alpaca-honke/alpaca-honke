@@ -4,19 +4,21 @@
 受験生だったりであんま動けてないかも
 
 An alpaca that is escaping from an animal consavation organization. A high school student.
-Due to being a student that have some exams of universities and collages next winter, some activities are limited.
+As a student preparing to take the college entrance exam this winter, the scope of my activities will be limited.
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=yellow) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=yellow) ![AiScript](https://img.shields.io/badge/AiScript-7273cd?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![Shell](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+## Activities
+![](https://github-readme-stats.vercel.app/api?username=alpaca-honke) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaca-honke)
 
 ## Active Products
-- [Twishare to Misskey](https://alpaca-honke.github.io/twishare-to-misskey)  
+- [![Twishare to Misskey](https://github-readme-stats.vercel.app/api/pin/?username=alpaca-honke&repo=twishare-to-misskey)](https://alpaca-honke.github.io/twishare-to-misskey)  
   Misskeyへのシェアを容易にするブラウザ拡張
-- [Prowpt](https://github.com/alpaca-honke/prowpt)  
+- [![Prowpt](https://github-readme-stats.vercel.app/api/pin/?username=alpaca-honke&repo=prowpt)](https://github.com/alpaca-honke/prowpt)  
   ピュアシェルスクリプトによるPowerline風BashとZsh向けプロンプトテーマ
-- [ボカロ曲を入力するとAdeliaeさんの曲を10曲おすすめする](https://alpaca-honke.github.io/ade-music)
-- [alpaca-honke.gituhb.io](https://github.com/alpaca-honke/alpaca-honke.github.io)  
+- [![ボカロ曲を入力するとAdeliaeさんの曲を10曲おすすめする](https://github-readme-stats.vercel.app/api/pin/?username=alpaca-honke&repo=ade-music)](https://alpaca-honke.github.io/ade-music)
+- [![alpaca-honke.gituhb.io](https://github-readme-stats.vercel.app/api/pin/?username=alpaca-honke&repo=alpaca-honke.github.io)](https://github.com/alpaca-honke/alpaca-honke.github.io)  
   一つのリポジトリにするまでもない小さいサイトの集合
 
 and more...
