@@ -10,7 +10,7 @@ As a student preparing to take the college entrance exam this winter, the scope 
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=yellow) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=yellow) ![AiScript](https://img.shields.io/badge/AiScript-7273cd?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![Shell](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Activities
-![](https://github-readme-stats.vercel.app/api?username=alpaca-honke) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaca-honke)
+![](https://github-readme-stats.vercel.app/api?username=alpaca-honke) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaca-honke&layout=compact)
 
 ## Active Products
 - [![Twishare to Misskey](https://github-readme-stats.vercel.app/api/pin/?username=alpaca-honke&repo=twishare-to-misskey)](https://alpaca-honke.github.io/twishare-to-misskey)  
