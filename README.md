@@ -14,6 +14,7 @@ As a student preparing to take the college entrance exam this winter, the scope 
 
 ## Active Products
 - Misskeyへのシェアを容易にするブラウザ拡張[Twishare to Misskey](https://alpaca-hone.github.io/twishare-to-misskey)  
+  ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/fbaifpppndnlbbjcbjdfgbdkoibnipjb?label=users%20%28chrome%20web%20store%29&style=flat-square) ![Mozilla Add-on Users](https://img.shields.io/amo/users/twishare-to-misskey?style=flat-square&label=users%20(mozilla%20add-on)) ![Chrome Web Store Rationg](https://img.shields.io/chrome-web-store/stars/fbaifpppndnlbbjcbjdfgbdkoibnipjb?label=rating%20%28chrome%20web%20store%29&style=flat-square)  
   [![Twishare to Misskey](https://github-readme-stats.vercel.app/api/pin/?username=alpaca-honke&repo=twishare-to-misskey&theme=transparent)](https://github.com/alpaca-honke/twishare-to-misskey)  
 - ピュアシェルスクリプトによるPowerline風BashとZsh向けプロンプトテーマProwpt  
   [![Prowpt](https://github-readme-stats.vercel.app/api/pin/?username=alpaca-honke&repo=prowpt&theme=transparent)](https://github.com/alpaca-honke/prowpt)  
