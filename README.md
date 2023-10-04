@@ -7,7 +7,7 @@ An alpaca that is escaping from an animal consavation organization. A high schoo
 Due to being a student that have some exams of universities and collages next winter, some activities are limited.
 
 ## Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=yellow) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=yellow) ![AiScript]((https://img.shields.io/badge/AiScript-7273cd?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![Shell](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=yellow) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=yellow) ![AiScript](https://img.shields.io/badge/AiScript-7273cd?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![Shell](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 ## Active Products
