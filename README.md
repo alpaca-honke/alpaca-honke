@@ -1,16 +1,33 @@
-### Hi there 👋
+# Alkappa/alpaca-honke
+## Who's Alkappa/alpaca-honke?
+動物愛護団体から逃げ出したアルパカです。高校生です。
+受験生だったりであんま動けてないかも
 
-<!--
-**alpaca-honke/alpaca-honke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An alpaca that is escaping from an animal consavation organization. A high school student.
+Due to being a student that have some exams of universities and collages next winter, some activities are limited.
 
-Here are some ideas to get you started:
+## Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=yellow) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=yellow) ![AiScript](https://img.shields.io/badge/AiScript-darkgreen?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPg0KPHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxuczpzZXJpZj0iaHR0cDovL3d3dy5zZXJpZi5jb20vIiBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjI7Ij4NCiAgICA8ZyBpZD0i44Os44Kk44Ok44O8LTUiIHNlcmlmOmlkPSLjg6zjgqTjg6Tjg7wgNSI+DQogICAgICAgIDxwYXRoIGlkPSJwYXRoNDU0MiIgZD0iTTEyNS45NzIsNTAwLjk5N0MxMjIuNiw1MDcuNzQgMTE1LjcwOCw1MTIgMTA4LjE2OSw1MTJDODUuMjcxLDUxMiAzNi4zMiw1MTIgMTIuOTQ0LDUxMkMxMC4xNzIsNTEyIDcuNTk3LDUxMC41NjQgNi4xMzksNTA4LjIwNkM0LjY4MSw1MDUuODQ3IDQuNTQ5LDUwMi45MDIgNS43ODksNTAwLjQyMkMzMi41MzYsNDQ2LjkyOSAxNDQuMDk4LDIyMy44MDMgMTczLjU1LDE2NC44OTlDMTc0LjkwNiwxNjIuMTg5IDE3Ny42NzYsMTYwLjQ3NyAxODAuNzA2LDE2MC40NzdDMTgzLjczNiwxNjAuNDc3IDE4Ni41MDYsMTYyLjE4OSAxODcuODYxLDE2NC44OTlDMjE3LjMxMywyMjMuODAzIDMyOC44NzYsNDQ2LjkyOSAzNTUuNjIzLDUwMC40MjJDMzU2Ljg2Myw1MDIuOTAyIDM1Ni43Myw1MDUuODQ3IDM1NS4yNzMsNTA4LjIwNkMzNTMuODE1LDUxMC41NjQgMzUxLjI0LDUxMiAzNDguNDY4LDUxMkMzMjUuMDkyLDUxMiAyNzYuMTQxLDUxMiAyNTMuMjQzLDUxMkMyNDUuNzA0LDUxMiAyMzguODExLDUwNy43NCAyMzUuNDQsNTAwLjk5N0MyMjQuNTA4LDQ3OS4xMzQgMjAwLjA2MSw0MzAuMjM5IDE4Ny44ODQsNDA1Ljg4NUMxODYuNTI0LDQwMy4xNjYgMTgzLjc0NSw0MDEuNDQ5IDE4MC43MDYsNDAxLjQ0OUMxNzcuNjY2LDQwMS40NDkgMTc0Ljg4OCw0MDMuMTY2IDE3My41MjgsNDA1Ljg4NUMxNjEuMzUxLDQzMC4yMzkgMTM2LjkwNCw0NzkuMTM0IDEyNS45NzIsNTAwLjk5N1oiIHN0eWxlPSJmaWxsOnVybCgjX0xpbmVhcjEpO2ZpbGwtcnVsZTpub256ZXJvOyIvPg0KICAgICAgICA8cGF0aCBpZD0icGF0aDQ1NDQiIGQ9Ik0yNjMuMTU1LDE0LjMxMUMyNjEuOCwxMS42MDEgMjU5LjAzLDkuODg5IDI1Niw5Ljg4OUMyNTIuOTcsOS44ODkgMjUwLjIsMTEuNjAxIDI0OC44NDUsMTQuMzExQzIzNi45OTgsMzguMDA1IDIxMy40OTQsODUuMDEzIDIwMi4xNjUsMTA3LjY3MUMxOTguMTM2LDExNS43MjggMTk4LjEzNiwxMjUuMjEzIDIwMi4xNjUsMTMzLjI3QzIxMy40OTQsMTU1LjkyOCAyMzYuOTk4LDIwMi45MzYgMjQ4Ljg0NSwyMjYuNjNDMjUwLjIsMjI5LjM0MSAyNTIuOTcsMjMxLjA1MyAyNTYsMjMxLjA1M0MyNTkuMDMsMjMxLjA1MyAyNjEuOCwyMjkuMzQxIDI2My4xNTUsMjI2LjYzQzI3NS4wMDIsMjAyLjkzNiAyOTguNTA2LDE1NS45MjggMzA5LjgzNSwxMzMuMjdDMzEzLjg2NCwxMjUuMjEzIDMxMy44NjQsMTE1LjcyOCAzMDkuODM1LDEwNy42NzFDMjk4LjUwNiw4NS4wMTMgMjc1LjAwMiwzOC4wMDUgMjYzLjE1NSwxNC4zMTFaIiBzdHlsZT0iZmlsbDp1cmwoI19MaW5lYXIyKTtmaWxsLXJ1bGU6bm9uemVybzsiLz4NCiAgICAgICAgPHBhdGggaWQ9InBhdGg0NTQ2IiBkPSJNNTA2LjIxMSw1MDAuNDIyQzUwNy40NTEsNTAyLjkwMiA1MDcuMzE5LDUwNS44NDcgNTA1Ljg2MSw1MDguMjA2QzUwNC40MDMsNTEwLjU2NCA1MDEuODI4LDUxMiA0OTkuMDU2LDUxMkM0NzYuMzkyLDUxMiA0MjkuNjg1LDUxMiA0MDUuOTkzLDUxMkMzOTcuMTI5LDUxMiAzODkuMDI1LDUwNi45OTIgMzg1LjA2MSw0OTkuMDY0QzM2NC4zNTYsNDU3LjY1MyAyOTkuOCwzMjguNTQyIDI3OC4xODksMjg1LjMyQzI3My43MDEsMjc2LjM0MiAyNzMuNzAxLDI2NS43NzUgMjc4LjE4OSwyNTYuNzk4QzI4OS43NzEsMjMzLjYzNCAzMTIuNTQxLDE4OC4wOTUgMzI0LjEzOSwxNjQuODk5QzMyNS40OTQsMTYyLjE4OSAzMjguMjY0LDE2MC40NzcgMzMxLjI5NCwxNjAuNDc3QzMzNC4zMjQsMTYwLjQ3NyAzMzcuMDk0LDE2Mi4xODkgMzM4LjQ1LDE2NC44OTlDMzY3LjkwMiwyMjMuODAzIDQ3OS40NjUsNDQ2LjkyOSA1MDYuMjExLDUwMC40MjJaIiBzdHlsZT0iZmlsbDp1cmwoI19MaW5lYXIzKTtmaWxsLXJ1bGU6bm9uemVybzsiLz4NCiAgICA8L2c+DQogICAgPGRlZnM+DQogICAgICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iX0xpbmVhcjEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgzNjEuNDEyLDAsMCwzNjEuNDEyLDEuODg5NzZlLTA1LDMzMS4yOTQpIj48c3RvcCBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOnJnYig3MSwxMTYsMTU4KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDE5MiwxMzksMTc0KTtzdG9wLW9wYWNpdHk6MSIvPjwvbGluZWFyR3JhZGllbnQ+DQogICAgICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iX0xpbmVhcjIiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgzMTYuMjM1LDAsMCw1MTIsMTk1Ljc2NSwyNTYpIj48c3RvcCBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOnJnYig3MSwxMTYsMTU4KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDIwMiwyMTcsMjAxKTtzdG9wLW9wYWNpdHk6MSIvPjwvbGluZWFyR3JhZGllbnQ+DQogICAgICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iX0xpbmVhcjMiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgZ3JhZGllbnRUcmFuc2Zvcm09Im1hdHJpeCgzMTYuMjM1LDAsMCw1MTIsMTk1Ljc2NSwyNTYpIj48c3RvcCBvZmZzZXQ9IjAiIHN0eWxlPSJzdG9wLWNvbG9yOnJnYig3MSwxMTYsMTU4KTtzdG9wLW9wYWNpdHk6MSIvPjxzdG9wIG9mZnNldD0iMSIgc3R5bGU9InN0b3AtY29sb3I6cmdiKDIwMiwyMTcsMjAxKTtzdG9wLW9wYWNpdHk6MSIvPjwvbGluZWFyR3JhZGllbnQ+DQogICAgPC9kZWZzPg0KPC9zdmc+) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![Shell](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Active Products
+- [Twishare to Misskey](https://alpaca-honke.github.io/twishare-to-misskey)  
+  Misskeyへのシェアを容易にするブラウザ拡張
+- [Prowpt](https://github.com/alpaca-honke/prowpt)  
+  ピュアシェルスクリプトによるPowerline風BashとZsh向けプロンプトテーマ
+- [ボカロ曲を入力するとAdeliaeさんの曲を10曲おすすめする](https://alpaca-honke.github.io/ade-music)
+- [alpaca-honke.gituhb.io](https://github.com/alpaca-honke/alpaca-honke.github.io)  
+  一つのリポジトリにするまでもない小さいサイトの集合
+
+and more...
+
+## Contact
+[![Calckey:@alpaca_honke@mkkey.net](https://img.shields.io/badge/Calckey-@alpaca__honke@mkkey.net-pink?style=flat-square&logo=misskey)](https://mkkey.net/@alpaca_honke)  
+[![Misskey:@alpaca_honke@misskey.io](https://img.shields.io/badge/Misskey-@alpaca__honke@misskey.io-green?style=flat-square&logo=misskey)](https://misskey.io/@alpaca_honke)  
+![Discord:@alpaca_honke](https://img.shields.io/badge/Discord-@alpaca__honke-7289da?style=flat-square&logo=discord)  
+[![Twitter:@alpaca_honke](https://img.shields.io/badge/Twitter-@alpaca__honke-blue?style=flat-square&logo=twitter)](https://twitter.com/alpaca_honke)  
+[![Email:akp@ymail.ne.jp](https://img.shields.io/badge/Email-akp@ymail.ne.jp-orange?style=flat-square&logo=gmail)](mailto:akp@ymail.ne.jp)
+
+[![Others...](https://img.shields.io/badge/🔗%20%20Others...-gray?style=for-the-badge)](https://alpaca-honke.github.io/#%E9%80%A3%E7%B5%A1%E5%85%88)
+
+Copyright 2023 あるかっぱ/アルパカ本家 Alkappa/alpaca-honke
