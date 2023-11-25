@@ -1,10 +1,10 @@
 # Alkappa/alpaca-honke
 ## Who's Alkappa/alpaca-honke?
-動物愛護団体から逃げ出したアルパカです。高校生です。
-受験生だったりであんま動けてないかも
+動物愛護団体から逃げ出したアルパカです。高校生です。  
+受験生なのであんま動けてないです。
 
-An alpaca that is escaping from an animal consavation organization. A high school student.
-As a student preparing to take the college entrance exam this winter, the scope of my activities will be limited.
+An alpaca that is escaping from an animal consavation organization. A high school student.  
+Being a student takeing some college and university entrance exams this winter, the range of my activities is limited.
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=yellow) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=yellow) ![AiScript](https://img.shields.io/badge/AiScript-7273cd?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![Shell](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnu-bash&logoColor=white)
