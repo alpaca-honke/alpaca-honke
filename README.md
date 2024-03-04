@@ -1,8 +1,8 @@
 # Alkappa/alpaca-honke
 ## Who's Alkappa/alpaca-honke?
-動物愛護団体から逃げ出したアルパカです。高校卒業しようとしてる人です。  
+動物愛護団体から逃げ出したアルパカです。
 
-An alpaca that is escaping from an animal consavation organization. A student who is graduating an high school.  
+An alpaca that is escaping from an animal consavation organization.
 
 ## Languages
 ![Japanese](https://img.shields.io/badge/🇯🇵Japanese-white?style=for-the-badge)
