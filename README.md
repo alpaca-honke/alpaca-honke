@@ -14,7 +14,7 @@ An alpaca that is escaping from an animal consavation organization.
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Shell](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 ## Activities
-![](https://github-readme-stats.vercel.app/api?username=alpaca-honke&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaca-honke&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=alpaca-honke&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaca-honke&layout=compact&theme=transparent&hide=common%20lisp)
 
 ## Active Products
 - Misskeyへのシェアを容易にするブラウザ拡張[Twishare to Misskey](https://alpaca-hone.github.io/twishare-to-misskey)  
