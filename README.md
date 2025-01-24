@@ -38,4 +38,4 @@ and more...
 
 [![Others...](https://img.shields.io/badge/🔗%20%20Others...-gray?style=for-the-badge)](https://alpaca-honke.github.io/#%E9%80%A3%E7%B5%A1%E5%85%88)
 
-Copyright 2025 あるかっぱ/アルパカ本家 Alkappa/alpaca-honke
+Copyright 2024-2025 あるかっぱ/アルパカ本家 Alkappa/alpaca-honke
