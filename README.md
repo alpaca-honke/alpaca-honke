@@ -13,7 +13,7 @@ An alpaca that is escaping from an animal consavation organization.
 [![AiScript](https://img.shields.io/badge/AiScript-7273cd?style=for-the-badge)](https://github.com/aiscript-dev/aiscript)
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Shell](https://img.shields.io/badge/shell-green?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-lightgreen?style=for-the-badge&logo=latex&logoColor=white)](https://qiita.com/alpaca-honke/items/f30a2d04eedaa3c36a21)
+[![LaTeX](https://img.shields.io/badge/LaTeX-lightgreen?style=for-the-badge&logo=latex&logoColor=blue)](https://qiita.com/alpaca-honke/items/f30a2d04eedaa3c36a21)
 ## Activities
 ![](https://github-readme-stats.vercel.app/api?username=alpaca-honke&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpaca-honke&layout=compact&theme=transparent&hide=common%20lisp)
 
