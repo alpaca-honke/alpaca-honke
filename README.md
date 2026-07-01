@@ -31,11 +31,12 @@ An alpaca that is escaping from an animal consavation organization.
 and more...
 
 ## Contact
-[![Calckey:@alpaca_honke@mkkey.net](https://img.shields.io/badge/Calckey-@alpaca__honke@mkkey.net-pink?style=flat-square&logo=misskey)](https://mkkey.net/@alpaca_honke)  
-[![Misskey:@alpaca_honke@misskey.io](https://img.shields.io/badge/Misskey-@alpaca__honke@misskey.io-green?style=flat-square&logo=misskey)](https://misskey.io/@alpaca_honke)  
 ![Discord:@alpaca_honke](https://img.shields.io/badge/Discord-@alpaca__honke-7289da?style=flat-square&logo=discord)  
 [![Twitter:@alpaca_honke](https://img.shields.io/badge/Twitter-@alpaca__honke-blue?style=flat-square&logo=twitter)](https://twitter.com/alpaca_honke)  
+[![Twitter:@pacapaca_PANIC](https://img.shields.io/badge/Twitter-@pacapaca_PANIC-blue?style=flat-square&logo=twitter)](https://twitter.com/pacapaca_PANIC)  
 [![Email:akp@ymail.ne.jp](https://img.shields.io/badge/Email-akp@ymail.ne.jp-orange?style=flat-square&logo=gmail)](mailto:akp@ymail.ne.jp)
+[![Calckey:@alpaca_honke@mkkey.net](https://img.shields.io/badge/Calckey-@alpaca__honke@mkkey.net-pink?style=flat-square&logo=misskey)](https://mkkey.net/@alpaca_honke)  
+[![Misskey:@alpaca_honke@misskey.io](https://img.shields.io/badge/Misskey-@alpaca__honke@misskey.io-green?style=flat-square&logo=misskey)](https://misskey.io/@alpaca_honke)  
 
 [![Others...](https://img.shields.io/badge/🔗%20%20Others...-gray?style=for-the-badge)](https://alpaca-honke.github.io/#%E9%80%A3%E7%B5%A1%E5%85%88)
 
